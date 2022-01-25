@@ -1,0 +1,1 @@
+This is a recipes mini project as described in OTP foundations course.
