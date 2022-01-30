@@ -1,0 +1,35 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+    font-size: larger;
+}
+
+.short-descr{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: chocolate;
+    font-size: medium;
+}
+.ingridients-list{
+    color: rgb(124, 59, 59);
+    font-size: medium;
+    font-style: italic;
+}
+img {
+    width:300px;
+    height: auto;
+}
+.instructions-list{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: cornflowerblue;
+    font-weight: lighter;
+}
+
+.ingridients-list li{
+    list-style-type: armenian;
+}
+
+.instructions-list li{
+    list-style-type: square;
+    list-style-position: outside;
+    width: 300px;
+}
